@@ -1,14 +1,64 @@
 
 
-input, textarea, select, .uneditable-input {
-  border: 1px solid #bbb;
+input {
+  border-style: none;
   width: 100%;
   margin-bottom: 15px;
-  
-}
-
-input {
+  border-bottom: 2px solid #737373;
+  background-color: #cccccc;
   height: auto;
 }
 
+label{
+  color: #737373;
+}
 
+body{
+  background-color: #cccccc;
+}
+
+h1{
+  text-align:  center;
+  color: #737373
+}
+
+.btn{
+  border: 2px solid #737373;
+  color: white;
+  background-color: #4286f4;
+  border-radius :5px;
+}
+label{
+  color: #737373;
+}
+
+body{
+  background-color: #cccccc;
+}
+
+h1{
+  text-align:  center;
+  color: #737373
+}
+
+.btn{
+  border: 2px solid #737373;
+  color: white;
+  background-color: #4286f4;
+  border-radius :5px;
+
+}
+
+.error{
+  text-align: center;
+  color: #b21522;
+}
+
+.alert{
+  text-align: center;
+  color: #048911;
+  border: 2px solid #06a015;
+  margin: 0px 25% 0px 25%;
+  border-radius: 5px;
+  background-color: #72c17a;
+}
