@@ -7,6 +7,7 @@ input {
   border-bottom: 2px solid #737373;
   background-color: #cccccc;
   height: auto;
+  outline: none;
 }
 
 label{
@@ -61,4 +62,8 @@ h1{
   margin: 0px 25% 0px 25%;
   border-radius: 5px;
   background-color: #72c17a;
+}
+
+.row{
+  margin: 0 10% 0 10%;
 }
