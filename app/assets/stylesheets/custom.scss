@@ -67,3 +67,6 @@ h1{
 .row{
   margin: 0 10% 0 10%;
 }
+input:-webkit-autofill{
+  -webkit-text-fill-color: #737373;
+}
